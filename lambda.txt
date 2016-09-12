@@ -1,0 +1,8 @@
+x
+nothing
+\x . x
+x x
+(x)
+(\x . x x)
+(x (\y . y y))
+\x . (\y . x y)
